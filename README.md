@@ -1,5 +1,4 @@
 ## Python for Data Engineering
-This repo contains all the code used in the [Python for Data Engineering Course]
 
 Code is free to use, if you want in-depth understanding of concepts then check out my python course designed to teach you how to think programmatically and perform data engineering tasks using python 
 
